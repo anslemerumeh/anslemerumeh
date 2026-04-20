@@ -1,8 +1,8 @@
 # Hi, I'm Anslem Audu Erumeh 👋
 
-### Snr DevOps Engineer & Java Developer | System Integration Specialist
+### Snr DevOps Engineer | Java Developer | AI Engineer | System Integration Specialist
 
-10+ years of core Java experience building and integrating complex enterprise systems across automotive, banking, and telecoms. Currently at **BMW IT HUB South Africa** working on autonomous vehicle development frameworks.
+10+ years of core Java experience building and integrating complex enterprise systems across automotive, banking, and telecoms. Currently at **BMW IT HUB South Africa** working on autonomous vehicle development frameworks. Also building AI-powered automation systems using Claude, MCP, and modern LLM tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anslem-e-86b042168/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anslemerumeh)
@@ -31,6 +31,19 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🤖 AI Engineering
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-6B46C1?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=for-the-badge&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView_MCP-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
 #### DevOps & CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -38,17 +51,20 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 #### APIs & Integration
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-0052CC?style=for-the-badge&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![CodeBeamer](https://img.shields.io/badge/CodeBeamer_ALM-0052CC?style=for-the-badge&logoColor=white)
 
 #### Databases
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Tools & Platforms
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -59,10 +75,6 @@
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### AI & Automation
-![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logoColor=white)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ---
 
@@ -78,7 +90,7 @@
 ### 📌 Featured Project
 
 🤖 **[Claude + TradingView MCP — Automated Trading Bot](https://github.com/anslemerumeh/claude-tradingview-mcp-trading-project)**  
-Connects Claude AI to TradingView and crypto exchanges for fully automated, strategy-driven trading with built-in safety checks and tax logging.
+Connects Claude AI to TradingView and crypto exchanges for fully automated, strategy-driven trading with built-in safety checks and tax logging. Built using Claude AI, MCP protocol, Node.js, and Railway cloud deployment.
 
 ---
 
@@ -89,4 +101,4 @@ Connects Claude AI to TradingView and crypto exchanges for fully automated, stra
 
 ---
 
-*Java Developer • System Integration Specialist • DevOps Engineer — Centurion, South Africa*
+*Java Developer • System Integration Specialist • DevOps Engineer • AI Engineer — Centurion, South Africa*
